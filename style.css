@@ -1,0 +1,16 @@
+.container {
+  background-color: olive;
+  color: wheat;
+  font-size: 15px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  width: 100%;
+}
+
+#btn {
+  border: transparent;
+  background-color: rgb(37, 53, 17);
+  color: wheat;
+  border-radius: 50%;
+  height: 50px;
+}
